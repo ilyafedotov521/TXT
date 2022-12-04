@@ -1,0 +1,10 @@
+id: 3
+Title: при повороте телефона в альбомный формат, приложение остается в книжном формате
+Environment: prod: "iPhone SE 2020 14.7.1 buld 3.0006.793"
+Precondition: 1. открыть Investemate
+Steps: 1. повернуть телефон в альбомный формат
+Severity: Minor
+Priority: Low
+Expected Result: при повороте телефона в альбомный формат, приложение адаптируется
+Actual Result: при повороте телефона в альбомный формат, приложение остается в книжном формате
+Attachment: https://drive.google.com/file/d/1T4UQd9JmewhHkeJD2-l3hYT1IrhRwaRI/view?usp=sharing
