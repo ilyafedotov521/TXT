@@ -1,0 +1,16 @@
+Тест-кейсы
+Чек-листы
+Баг-репорты
+Smoke тест
+Critical path тест
+Regression тест
+Web тест
+Mobile тест
+Тест-дизайн
+HTTP/HTTPS
+DevTools
+Test API
+Postman
+SQL
+JavaScript
+Terminal
